@@ -1,0 +1,91 @@
+body{
+
+  color: green;
+  background: lightgreen;
+  font-weight: bold;
+  text-align: center;
+
+
+
+}
+
+.Choose{
+
+  font-size: 30px;
+
+
+}
+
+.Title{
+
+  font-size: 50px;
+  color: Blue;
+  margin-top: 10px;
+
+
+}
+
+.all{
+
+  color: green;
+  background: lightgreen;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+
+
+
+}
+
+.thefirst{
+
+  color: green;
+  background: lightgreen;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+
+
+}
+
+
+.athens1896{
+
+  color: green;
+  background: lightgreen;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+.TitlePar{
+
+
+  color: green;
+  background: lightgreen;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 40px;
+
+}
+
+
+.Choices{
+
+
+  color: green;
+  background: lightgreen;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+  margin-top: 40px;
+
+
+}
